@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 using namespace std;
 
 int main(){
@@ -12,4 +12,20 @@ int main(){
     luas = 0.5*a*t;
     cout << "luas segitiga adalah = " << luas;
     
+}*/
+
+#include<iostream>
+using namespace std;
+
+int main(){
+  cout << "membuat perhitungan luas persegi panjang" << endl;
+  int p, l, luas;
+  
+  cout << "Masukan Panjang = ";
+  cin >> p;
+  cout << "Masukan Lebar = ";
+  cin >> l;
+  luas = p*l;
+  cout << "luas nya adalah = " << luas;
+
 }
