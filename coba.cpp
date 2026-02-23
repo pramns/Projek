@@ -2,5 +2,8 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    string Dito;
+    char D;
+   cout << "hello world";
+   
 }
