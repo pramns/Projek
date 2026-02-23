@@ -10,6 +10,9 @@ int main() {
    cin >> nama;
    cout << "kamu berada di kelas = ";
    cin >> kelas;
-   
+   cout << "umur kamu = ";
+   cin >> umur;
+   cout << "Tinggi kamu = ";
+   cin >> TB;
    
 }
